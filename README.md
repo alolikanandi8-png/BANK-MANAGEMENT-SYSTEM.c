@@ -1,2 +1,2 @@
 # BANK-MANAGEMENT-SYSTEM.c
-project
+It's make simple c programming coding 
